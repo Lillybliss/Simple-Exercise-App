@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simple-Exercise-App/static/css/main.e6c13ad2.css",
+    "main.js": "/Simple-Exercise-App/static/js/main.f935e34b.js",
+    "static/js/787.90895c91.chunk.js": "/Simple-Exercise-App/static/js/787.90895c91.chunk.js",
+    "index.html": "/Simple-Exercise-App/index.html",
+    "main.e6c13ad2.css.map": "/Simple-Exercise-App/static/css/main.e6c13ad2.css.map",
+    "main.f935e34b.js.map": "/Simple-Exercise-App/static/js/main.f935e34b.js.map",
+    "787.90895c91.chunk.js.map": "/Simple-Exercise-App/static/js/787.90895c91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f935e34b.js"
+  ]
+}
